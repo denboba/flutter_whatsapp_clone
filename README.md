@@ -14,7 +14,7 @@ Chat: Chat with individual contacts with a familiar WhatsApp-like interface.
 Clone the repository:
 
 
-git clone https://github.com/Abdulke96/whatsapp-clone-flutter.git
+git clone https://github.com/Abdulke96/flutter_whatsapp_clone.git
 # Install dependencies:
 
 flutter pub get
